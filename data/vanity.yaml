@@ -1,7 +1,31 @@
-# Example vanity.yaml
-
-host: gomodules.xyz
+host: stash.appscode.dev
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /apimachinery:
+    repo: https://github.com/stashed/apimachinery
+  /catalog:
+    repo: https://github.com/stashed/catalog
+  /cli:
+    repo: https://github.com/stashed/cli
+  /cluster:
+    repo: https://github.com/stashed/cluster
+  /docs:
+    repo: https://github.com/stashed/docs
+  /elasticsearch:
+    repo: https://github.com/stashed/elasticsearch
+  /installer:
+    repo: https://github.com/stashed/installer
+  /mariadb:
+    repo: https://github.com/stashed/mariadb
+  /mongodb:
+    repo: https://github.com/stashed/mongodb
+  /mysql:
+    repo: https://github.com/stashed/mysql
+  /percona-xtradb:
+    repo: https://github.com/stashed/percona-xtradb
+  /postgres:
+    repo: https://github.com/stashed/postgres
+  /redis:
+    repo: https://github.com/stashed/redis
+  /stash:
+    repo: https://github.com/stashed/stash
