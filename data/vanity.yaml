@@ -31,3 +31,5 @@ paths:
     repo: https://github.com/stashed/stash
   /kubestash:
     repo: https://github.com/stashed/kubestash
+  /ui-server:
+    repo: https://github.com/stashed/ui-server
