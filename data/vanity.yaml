@@ -17,6 +17,8 @@ paths:
     repo: https://github.com/stashed/elasticsearch
   /installer:
     repo: https://github.com/stashed/installer
+  /kubedump:
+    repo: https://github.com/stashed/kubedump
   /mariadb:
     repo: https://github.com/stashed/mariadb
   /mongodb:
